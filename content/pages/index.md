@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: '¡Que Onda! Soy Jorge Delio y,'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Te ayudo a contar las mejores historias en audio a través de Podcast
+      Marketing
     actions:
       - label: Let's talk
         url: /contact
