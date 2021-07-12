@@ -9,7 +9,7 @@ sections:
       Te ayudo a contar las mejores historias en audio a través de Podcast
       Marketing
     actions:
-      - label: Let's talk
+      - label: QUIERO SER PODCASTER
         url: /contact
         style: button
   - section_id: latest-projects
